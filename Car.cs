@@ -1,6 +1,6 @@
 namespace ConsoleApp1;
 
-using System;
+using System
 
 public class Car
 {
